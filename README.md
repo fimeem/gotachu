@@ -1,5 +1,5 @@
-# gotachu
-Software Engineering (cse470) Final Project:
+# Software Engineering (cse470) Final Project:
+
 
 Google Drive Link: https://drive.google.com/drive/folders/1YNRbQKwQBhWCdhiE7fdnlRNEb6y1xxkE?usp=sharing
 
